@@ -1,16 +1,11 @@
+## #365DaysOfCodingChallenge #2021
 <a href="https://github-readme-stats.">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia " />
 </a>
-
-
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-
-##
-
-## #365DaysOfCodingChallenge #2021
-![xblainm's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=xblainm&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--github stats-->
 ## #100DaysOfCode
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=xblainm&column=7"/>
@@ -24,7 +19,7 @@
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
-<h4>Check out <a href="https://myportfoliodiananyamai.web.app/" target="_blank">My PORTFOLIO</a></h4>
+<h4>Check out <a href="https://muemablain.wordpress.com/portfolio/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools
@@ -35,7 +30,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>
 
-### Social media accounts 📫
+## Social media accounts 📫
 
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/ilov3tuesday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
