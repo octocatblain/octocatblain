@@ -2,11 +2,12 @@
 <a href="https://github-readme-stats.">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia " />
 </a>
-<br>
+<span></span>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <!--github stats-->
+
 ## #100DaysOfCode
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=xblainm&column=7"/>
 <!--Trophies-->
@@ -31,7 +32,6 @@
 <br/><br/>
 
 ## Social media accounts 📫
-
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/ilov3tuesday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/blain-muema-216b03132//?msgControlName=reply_to_sender&msgConversationId=6691689121624141826&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
