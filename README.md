@@ -4,18 +4,14 @@
 <p align="left"> 
       <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
 </p>
-    
-<div class="row">
-  <div class="column" >
-    <a href="https://github-readme-stats.vercel.app">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
-    </a>
-  </div> 
+
+<p display="flex">
+      <a href="https://github-readme-stats.vercel.app">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
+      </a>
       <span></span>
-  <div class="column" >
-      <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
-   </div>
-</div>
+      <a href="https://github.com/anuraghazra/convoychat"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
+</p>
 
 <!--github stats-->
 
