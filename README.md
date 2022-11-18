@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" /></p>
 
-<a href="https://github-readme-stats.">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia " />
+<a href="https://github-readme-stats.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
 </a>
 
 <span> </span>
