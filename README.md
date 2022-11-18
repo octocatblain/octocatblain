@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
 
+<p align="right"> 
+      <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
+</p>
+    
 <div class="row">
   <div class="column" align="right">
-    <p align="right"> 
-      <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
-    </p>
-  </div> 
-  <div class="column" align="left">
     <a href="https://github-readme-stats.vercel.app">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
     </a>
+  </div> 
+  
+  <span> </span>
+  
+  <div class="column" align="left">
+      <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
    </div>
 </div>
 
-<span> </span>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
 <!--github stats-->
 
 ## Technology & Tools
