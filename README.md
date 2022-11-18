@@ -2,12 +2,12 @@
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
 
 <div class="row">
-  <div class="column" align="left">
+  <div class="column" align="right">
     <p align="left"> 
       <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
     </p>
   </div> 
-  <div class="column" align="right">
+  <div class="column" align="left">
     <a href="https://github-readme-stats.vercel.app">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
     </a>
