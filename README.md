@@ -1,3 +1,10 @@
+<style>
+      .row {
+  display: flex;
+}
+ 
+</style>
+
 <h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
 
