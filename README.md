@@ -1,10 +1,3 @@
-<style>
-      .row {
-  display: flex;
-}
- 
-</style>
-
 <h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Software Engineer from Nairobi, Kenya</h3>
 
@@ -13,13 +6,13 @@
 </p>
     
 <div class="row">
-  <div class="column" align="left">
+  <div class="column" >
     <a href="https://github-readme-stats.vercel.app">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
     </a>
   </div> 
-  
-  <div class="column" align="right">
+ 
+  <div class="column" >
       <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
    </div>
 </div>
