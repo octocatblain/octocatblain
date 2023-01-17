@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Software Engineer based in Nairobi, Kenya</h3>
 
+# 💫 About Me:
+<br>🌱 I'm currently learning <b> C for Software development</b><br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, JavaScript
+
 <p align="left"> 
       <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
 </p>
