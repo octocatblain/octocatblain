@@ -5,15 +5,15 @@
 <br>🌱 I'm currently learning <b> C for Software development</b><br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, JavaScript.</b>
 
 <p align="left"> 
-      <img src="https://komarev.com/ghpvc/?username=xblainm&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
+      <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
 </p>
 
 <p display="flex">
       <a href="https://github-readme-stats.vercel.app">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblainm&show_icons=true&theme=algolia" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=algolia" />
       </a>
       <span></span>
-      <a href="https://github.com/anuraghazra/convoychat"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblainm&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
+      <a href="https://github.com/anuraghazra/convoychat"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
 </p>
 
 <!--github stats-->
@@ -32,4 +32,4 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="8%" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="8%" height="40"/> </a> 
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblainm&" alt="xblainm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octocatblain&" alt="octocatblain" /></p>
