@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Software Engineer based in Nairobi, Kenya &amp; New York, USA.</h3>
 
 # 💫 About Me:
-<br>🌱 I'm currently learning <b> C &amp; Python forfd Software Engineering.</b> <br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, &amp; JavaScript.</b>
+<br>🌱 I'm currently learning <b> C &amp; Python for Software Engineering.</b> <br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, &amp; JavaScript.</b>
 
 <p align="left"> 
       <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
