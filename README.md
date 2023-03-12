@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blain Muema</h1>
-<h3 align="center">A Junior Software Engineer based in Nairobi, Kenya &amp; New York, USA.</h3>
+<h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya &amp; New York, USA.</h3>
 
 # 💫 About Me:
 <br>🌱 I'm currently learning <b> C &amp; Python for Software Engineering.</b> <br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, &amp; JavaScript.</b>
