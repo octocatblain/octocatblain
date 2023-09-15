@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Blain Muema</h1>
-<h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya &amp; New York, USA.</h3>
+hi<h1 align="center">Hi 👋, I'm Blain Muema</h1>
+<h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
-<br>🌱 I'm currently learning <b> Advanced Python </b> and <b>Laravel Livewire</b> <br>💬 Ask me about <b>Flask Python, C, PHP Laravel, React Redux, &amp; JavaScript.</b>
+<br>🌱 I'm currently learning <b> Advanced Python </b> and <b>Laravel Livewire</b> <br>💬 Ask me about <b>Flask Python, C++, PHP Laravel, &amp; JavaScript.</b>
 
 <p align="left"> 
-      <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="xblainm" />
+      <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
 </p>
 
 <p display="flex">
