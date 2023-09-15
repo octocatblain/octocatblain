@@ -1,4 +1,4 @@
-hi<h1 align="center">Hi 👋, I'm Blain Muema</h1>
+<h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
