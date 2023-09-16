@@ -2,7 +2,7 @@
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
-<br>🌱 I'm currently learning <b> Advanced Python </b> and <b>Laravel Livewire</b> <br>💬 Ask me about <b>Flask Python, C++, PHP Laravel, &amp; JavaScript.</b>
+<br>🌱 I'm currently learning <b> Advanced Python </b> and <b>Laravel Livewire</b> <br>💬 Ask me about <b>Flask Python PHP Laravel, &amp; JavaScript.</b>
 
 <p align="left"> 
       <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
