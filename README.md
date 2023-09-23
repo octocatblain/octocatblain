@@ -31,11 +31,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="8%" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="8%" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="8%" height="40"/> </a> 
-    
+
 <div align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-      
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=windows-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
-
- <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=octocatblain&" alt="octocatblain" /></p> -->
-
