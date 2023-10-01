@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blain Muema</h1>
+why<h1 align="center">Hi 👋, I'm Blain Muema</h1>
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
@@ -39,6 +39,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-W45K_YdP6v4$wzE
-
