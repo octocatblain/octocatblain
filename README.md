@@ -21,8 +21,8 @@
 ## Technology & Tools
 <p style="display: flex; justify-content: center;"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="8%" height="40"/> </a> 
- <a href="https://html5.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon/html/html5-plain-wordmark.svg" alt="bootstrap" width="8%" height="40"/> </a> 
-  <!-- 0708 261746Add similar code for other icons here -->
+ 
+  <!-- Add similar code for other icons here -->
 </p>
 
 <div style="text-align: center;">
