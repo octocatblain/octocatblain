@@ -30,3 +30,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
