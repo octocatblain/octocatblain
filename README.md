@@ -1,12 +1,12 @@
+<p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
+</p>
+<br>
 <h3 align="center">Hi 👋, I'm Blain Muema</h3>
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 <h3>💫 About Me:</h3>
 <br>🌱 I'm currently learning <b> Django</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b>
-
-<p align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
-</p>
 
 <div align="center"style="display: flex; justify-content: space-between;">
       <a href="https://github-readme-stats.vercel.app">
