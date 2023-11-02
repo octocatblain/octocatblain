@@ -8,11 +8,11 @@
       <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
 </p>
 
-<div align="center">
+<div align="center"style="display: flex; justify-content: space-between;">
       <a href="https://github-readme-stats.vercel.app">
             <img src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=algolia" />
       </a>
-      <span style="margin-right: 5px;"></span>
+      <span ></span>
       <a href="https://github.com/anuraghazra/convoychat"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
 </div>
 
