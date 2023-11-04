@@ -6,9 +6,9 @@
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 <h3>💫 About Me:</h3>
-<br>🌱 I'm currently learning <b> Django</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b>
+🌱 I'm currently learning <b> Django</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b>
 
-<div align="center"style="display: flex; justify-content: space-between;">
+<div align="center" >
       <a href="https://github-readme-stats.vercel.app">
             <img src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=algolia" />
       </a>
