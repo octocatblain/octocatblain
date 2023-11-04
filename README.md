@@ -17,12 +17,59 @@
 </div>
 
 <!--github stats-->
-
+<!--Tools-->
 <h3>Technology & Tools</h3>
 <p align="center" justify="between"> 
+<!--       bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="8%" height="40"/> </a> 
- 
-  <!-- Add similar code for other icons here -->
+<!--       tailwind -->
+       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="8%" height="40" />
+          </a>
+<!--       next js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="8%" height="40" />
+          
+</a>
+<!--       react.js -->
+ <a href="https://react.dev/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="8%" height="40" />
+          </a>
+<!--       python -->
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="8%" height="40"/>
+           </a>
+<!--       php -->
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="8%" height="40"/>
+           </a>
+<!--      laravel -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="8%" height="40"/>
+           </a>
+<!--   html5 -->
+<a href="[https://laravel.com/](https://html.com/html5/)" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="8%" height="40"/>
+           </a>
+<!--    css3 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="8%" height="40"/>
+           </a>
+<!-- django -->
+           <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="8%" height="40"/>
+           </a>
+<!--  flask -->
+             <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="8%" height="40"/>
+           </a>
+<!--       sqlalchemy -->
+          <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="8%" height="40"/>
+           </a>
+<!--   livewire -->
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/octocatblain/octocatblain/assets/62080362/8e81fd7c-e56d-4073-b96c-393d22d17a13" width="5%" height="40" /></a>
 </p>
 
 <div align="center">
