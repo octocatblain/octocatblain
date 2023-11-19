@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a>
 
 </div>
 
