@@ -10,10 +10,10 @@
 
 <div align="center" >
       <a href="https://github-readme-stats.vercel.app">
-            <img src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=algolia" />
+            <img src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=chartreuse-dark" />
       </a>
       <span ></span>
-      <a href="https://github.com/anuraghazra/convoychat"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&langs_count=10&theme=algolia&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
+      <a href="https://github.com/anuraghazra/convoychat"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&langs_count=10&theme=chartreuse-dark&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats" /> </a>
 </div>
 
 <!--github stats-->
