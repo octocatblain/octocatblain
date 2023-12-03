@@ -9,7 +9,7 @@
 🌱 I'm currently learning <b> Django, React(Next.js)</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> <br>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/). 
 <br>
 <br>
-<hr>
+<hr style="font-size:0.5rem;">
 
 <div align="center" >
       <a href="https://github-readme-stats.vercel.app">
