@@ -6,8 +6,7 @@
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 <h3>💫 About Me:</h3>
-🌱 I'm currently learning <b> Django, React(Next.js)</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> <br>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/). 
-<br>
+🌱 I'm currently learning <b> Django, React(Next.js)</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> <br>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/).
 <br>
 <hr style="font-size:0.5rem;">
 
