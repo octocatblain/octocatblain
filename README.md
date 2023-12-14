@@ -8,7 +8,7 @@
 <h2 align="center">💫 About Me:</h2>
 <p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
 <p>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> </p>
-<p>📘 I share my experiences and insights as a Junior Software Engineer at <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
+<p>📘 I share my experiences and insights as a Junior Software Engineer on <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
 
 <!--github stats-->
 <table>
