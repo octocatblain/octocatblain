@@ -30,7 +30,7 @@
 <p align="center">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />         
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -50,7 +50,7 @@
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />              
+<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img src="https://github.com/octocatblain/octocatblain/assets/62080362/8e81fd7c-e56d-4073-b96c-393d22d17a13" width="37" height="40" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -71,10 +71,34 @@
 </tr>
 </table>
 
-<h2  align="center">🎧Playing On Spotify<h2>
+<h2  align="center">🔎Socials<h2>
 
-<div align="center">
-
+<table align="center">
+  <tr>
+    <td rowspan="6" >
+    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true)
-
-</div>
+    
+</td>
+    <td align="right"><a href="https://www.linkedin.com/in/blain-muema/" target="_blank">LinkedIn 
+            <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          </a></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://.com" target="_blank">Discord <img src="icons/discord.png" ></a></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://twitter.com/birdblain/" target="_blank">Twitter 
+            <img  width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+          </a></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://wa.me/+254113604268/" target="_blank">Whatsapp <img width="25" height="25" src="icons/whatsapp.png" ></a></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="mailto:blainmuema@gmail.com" target="_blank">Gmail <img width="25" height="25" src="icons/gmail.png" ></a></td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://blainmuema.hashnode.dev/" target="_blank">Hashnode <svg xmlns="http://www.w3.org/2000/svg" height="25" width="25" viewBox="0 0 512 512"><path d="M35.2 171.1C-11.7 217.1-11.7 294 35.2 340.9L171.1 476.8C217.1 523.7 294 523.7 340.9 476.8L476.8 340.9C523.7 294 523.7 217.1 476.8 171.1L340.9 35.2C294-11.7 217.1-11.7 171.1 35.2L35.2 171.1zM315.5 315.5C282.6 348.3 229.4 348.3 196.6 315.5C163.7 282.6 163.7 229.4 196.6 196.6C229.4 163.7 282.6 163.7 315.5 196.6C348.3 229.4 348.3 282.6 315.5 315.5z"/></svg></a></td>
+  </tr>
+</table>
