@@ -6,10 +6,9 @@
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
 <h3>💫 About Me:</h3>
-🌱 I'm currently learning <b> Django, React(Next.js)</b> <br>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> <br>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/).
-<br>
-<hr style="font-size:0.1rem;">
-
+<p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
+<p>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> </p>
+<p>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/).</p>
 <!--github stats-->
 <table>
 <tr>
@@ -30,6 +29,7 @@
 <p align="left">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />         
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -47,6 +47,9 @@
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
  <!-- <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /> -->
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />              
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img src="https://github.com/octocatblain/octocatblain/assets/62080362/8e81fd7c-e56d-4073-b96c-393d22d17a13" width="37" height="40" />
 <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -55,10 +58,10 @@
 </p>
 
 <table>
-<tr>
-<td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
+<tr align="center">
+<td ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
 </tr>
-<tr>
+<tr  align="center">
 <td>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -70,3 +73,6 @@
 <h2>🎧Playing On Spotify<h2>
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+
+djhango
+flask tailwind
