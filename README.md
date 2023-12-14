@@ -2,15 +2,14 @@
       <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
 </p>
 <br>
-<h1 align="center">Hi 👋, I'm Blain Muema</h3>
-<h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Blain Muema</h4>
+<h4 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
-<h2>💫 About Me:</h2>
+<h2 align="center">💫 About Me:</h2>
 <p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
 <p>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> </p>
 <p>📘 I share my experiences and insights as a Junior Software Engineer at <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
 
-<h2></h2>
 <!--github stats-->
 <table>
 <tr>
@@ -72,7 +71,7 @@
 </tr>
 </table>
 
-<h2>🎧Playing On Spotify<h2>
+<h2  align="center">🎧Playing On Spotify<h2>
 
 <div align="center">
 
