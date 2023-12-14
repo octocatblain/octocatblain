@@ -2,13 +2,15 @@
       <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
 </p>
 <br>
-<h3 align="center">Hi 👋, I'm Blain Muema</h3>
+<h1 align="center">Hi 👋, I'm Blain Muema</h3>
 <h3 align="center">A Jr. Software Engineer based in Nairobi, Kenya.</h3>
 
-<h3>💫 About Me:</h3>
+<h2>💫 About Me:</h2>
 <p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
 <p>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> </p>
-<p>📘 I share my experiences and insights as a Junior Software Engineer at [Hashnode](https://blainmuema.hashnode.dev/).</p>
+<p>📘 I share my experiences and insights as a Junior Software Engineer at <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
+
+<h2></h2>
 <!--github stats-->
 <table>
 <tr>
@@ -24,9 +26,9 @@
 </table>
 
 <!--Tools-->
-<h3 align="center">Technology & Tools</h3>
+<h2 align="center">📡Technology & Tools</h2>
 
-<p align="left">
+<p align="center">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />         
@@ -72,7 +74,8 @@
 
 <h2>🎧Playing On Spotify<h2>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+<div align="center">
 
-djhango
-flask tailwind
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true)
+
+</div>
