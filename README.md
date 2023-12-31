@@ -88,7 +88,7 @@
     <td align="right"><a href="https://.com" target="_blank">Discord <img src="icons/discord.png" ></a></td>
   </tr>
   <tr>
-    <td align="right"><a href="https://twitter.com/birdblain/" target="_blank">Twitter 
+    <td align="right"><a href="https://twitter.com/birdblain/" target="_blank">X(Twitter) 
             <img  width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
           </a></td>
   </tr>
