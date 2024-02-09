@@ -57,6 +57,8 @@
 </p>
 </details>
 
+<details>
+<summary>🔥Github Streak and Contribution Graph</summary>
 <table>
 <tr align="center">
 <td ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
@@ -69,6 +71,7 @@
 </td>
 </tr>
 </table>
+</details>
 
 <h2  align="center">🔎Socials<h2>
 
