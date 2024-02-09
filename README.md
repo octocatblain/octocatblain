@@ -7,9 +7,10 @@
 
 <h2 align="center">💫 About Me:</h2>
 <p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
-<p>💬 Ask me about <b>Flask Python, PHP Laravel, &amp; JavaScript.</b> </p>
+<p>💬 Ask me about <b>Python, Laravel Livewire, &amp; JavaScript.</b> </p>
 <p>📘 I share my experiences and insights as a Junior Software Engineer on <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
 
+<hr>
 <!--github stats-->
 <details>
       <summary>📈 My Github Stats</summary>
@@ -29,7 +30,7 @@
 
 <!--Tools-->
 <details>
-<summary>📡 Technology & Tools</summary>
+<summary>📡 My Tech Stack & Tools</summary>
 
 <p align="center">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -58,7 +59,7 @@
 </details>
 
 <details>
-<summary>🔥 Github Streak and Contribution Graph</summary>
+<summary>🔥 Github Streak & Contribution Graph</summary>
 <table>
 <tr align="center">
 <td ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
