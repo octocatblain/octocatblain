@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Blain Muema</h4>
 <h4 align="center">A MERN Software Engineer based in Nairobi, Kenya.</h3>
 
-<h2 align="center">💫 About Me:</h2>
+<!--<h2 align="center">💫 About Me:</h2>-->
 <p>🌱 I'm currently learning <b> Django, React(Next.js)</b></p>
 <p>💬 Ask me about <b>Python, Laravel Livewire, &amp; JavaScript.</b> </p>
 <p>📘 I share my experiences and insights as a Junior Software Engineer on <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
