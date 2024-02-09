@@ -12,7 +12,7 @@
 
 <!--github stats-->
 <details>
-      <summary>My Github Stats</summary>
+      <summary>📈 My Github Stats</summary>
 <table>
 <tr>
 <td>
@@ -29,7 +29,7 @@
 
 <!--Tools-->
 <details>
-<summary>📡Technology & Tools</summary>
+<summary>📡 Technology & Tools</summary>
 
 <p align="center">
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary>🔥Github Streak and Contribution Graph</summary>
+<summary>🔥 Github Streak and Contribution Graph</summary>
 <table>
 <tr align="center">
 <td ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
@@ -72,8 +72,8 @@
 </tr>
 </table>
 </details>
-
-<h2  align="center">🔎Socials<h2>
+<details>
+<summary>🔎 How to reach me on Socials</summary>
 
 <table align="center">
   <tr>
@@ -104,4 +104,4 @@
     <td align="right"><a href="https://blainmuema.hashnode.dev/" target="_blank">Hashnode <svg xmlns="http://www.w3.org/2000/svg" height="25" width="25" viewBox="0 0 512 512"><path d="M35.2 171.1C-11.7 217.1-11.7 294 35.2 340.9L171.1 476.8C217.1 523.7 294 523.7 340.9 476.8L476.8 340.9C523.7 294 523.7 217.1 476.8 171.1L340.9 35.2C294-11.7 217.1-11.7 171.1 35.2L35.2 171.1zM315.5 315.5C282.6 348.3 229.4 348.3 196.6 315.5C163.7 282.6 163.7 229.4 196.6 196.6C229.4 163.7 282.6 163.7 315.5 196.6C348.3 229.4 348.3 282.6 315.5 315.5z"/></svg></a></td>
   </tr>
 </table>
-](url)
+</details>
