@@ -31,7 +31,11 @@
 <!--Tools-->
 <details>
 <summary>📡 My Tech Stack & Tools</summary>
-
+<style>
+  tbody {
+    vertical-align: top;
+  }
+</style>
 <table>
   <thead>
     <tr>
@@ -40,7 +44,7 @@
       <th>Tools</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody >
     <tr>
       <td>
         <table>
