@@ -6,8 +6,8 @@
 <h4 align="center">A MERN Software Engineer based in Nairobi, Kenya.</h4>
 
 <!--<h2 align="center">💫 About Me:</h2>-->
-<p>🌱 I'm currently learning <b>Django, React(Next.js)</b></p>
-<p>💬 Ask me about <b>Python, Laravel Livewire, & JavaScript.</b></p>
+<p>🌱 I'm currently learning <b>Java SpringBoot &amp; TypeScript.</b></p>
+<p>💬 Ask me about <b>ReactJS, NextJS, Python, Laravel Livewire, & JavaScript.</b></p>
 <p>📘 I share my experiences and insights as a Junior Software Engineer on <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
 
 <hr>
