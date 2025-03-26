@@ -1,5 +1,3 @@
-# Blain Muema
-
 ![Profile views](https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=1ED760&style=flat)
 
 ## 💫 About Me
