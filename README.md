@@ -4,9 +4,9 @@
 
 ## 💫 About Me
 
-🌱 Currently developing with **Java SpringBoot & NextJS - TypeScript**  
-💬 Ask me about **ReactJS, NextJS, Python, Laravel Livewire, & JavaScript**  
-📘 I share my experiences and insights as a Junior Software Engineer on [Hashnode](https://blainmuema.hashnode.dev/)  
+🌱 Currently developing with **PHP Laravel & NextJS - TypeScript**  
+💬 Ask me about **ReactJS, NextJS, Typescript & Laravel**  
+📘 I share my experiences and insights as a Software Engineer on [Hashnode](https://blainmuema.hashnode.dev/)  
 ⚡ Always learning and exploring new technologies  
 
 ---
@@ -49,17 +49,6 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&theme=dark&hide_border=true&langs_count=10&title_color=1ED760&text_color=ffffff&bg_color=0D1117) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=octocatblain&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true) |
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=0D1117&color=1ED760&line=1ED760&point=1ED760&area=true&hide_border=true)
-
-</details>
-
----
-
-## 🎵 Currently Listening To
-
-<details>
-<summary>View Spotify Activity</summary>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316wpz7c5omvst6j74uetl6tfghe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1ED760)](https://open.spotify.com/user/316wpz7c5omvst6j74uetl6tfghe?si=eb525a5c2b5d4ab5)
 
 </details>
 
