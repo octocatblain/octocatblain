@@ -1,8 +1,8 @@
 # Blain Muema
 
-![Profile views](https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=brightgreen&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=1ED760&style=flat)
 
-> **Fullstack Software Engineer based in Nairobi, Kenya**
+> **MERN Software Engineer based in Nairobi, Kenya**
 
 ## 💫 About Me
 
@@ -44,13 +44,13 @@
 
 | GitHub Stats | GitHub Streak |
 | :----------: | :-----------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocatblain&theme=chartreuse-dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=1ED760&icon_color=1ED760&text_color=ffffff&bg_color=0D1117) | [![GitHub Streak](https://streak-stats.demolab.com?user=octocatblain&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 
 | Top Languages | GitHub Trophies |
 | :-----------: | :-------------: |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=octocatblain&theme=matrix&column=4&margin-w=15&margin-h=15) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&theme=dark&hide_border=true&langs_count=10&title_color=1ED760&text_color=ffffff&bg_color=0D1117) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=octocatblain&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true) |
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=0d1117&color=7ffe00&line=7ffe00&point=7ffe00&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=0D1117&color=1ED760&line=1ED760&point=1ED760&area=true&hide_border=true)
 
 </details>
 
@@ -61,11 +61,11 @@
 <details>
 <summary>View Spotify Activity</summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316wpz7c5omvst6j74uetl6tfghe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1ED760)](https://open.spotify.com/user/316wpz7c5omvst6j74uetl6tfghe?si=eb525a5c2b5d4ab5)
 
 </details>
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/octocatblain?style=for-the-badge&logo=github&color=7ffe00&logoColor=black)](https://github.com/octocatblain?tab=followers)
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-7ffe00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/octocatblain?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/octocatblain?style=for-the-badge&logo=github&color=1ED760&logoColor=black)](https://github.com/octocatblain?tab=followers)
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-1ED760?style=for-the-badge&logo=github&logoColor=black)](https://github.com/octocatblain?tab=repositories)
