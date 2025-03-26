@@ -1,146 +1,71 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=0e75b6&style=flat" alt="octocatblain" />
-</p>
-<br>
-<h1 align="center">Hi 👋, I'm Blain Muema</h1>
-<h4 align="center">A MERN Software Engineer based in Nairobi, Kenya.</h4>
+# Blain Muema
 
-<!--<h2 align="center">💫 About Me:</h2>-->
-<p>🌱 I'm currently developing using <b>Java SpringBoot &amp; NextJS - TypeScript.</b></p>
-<p>💬 Ask me about <b>ReactJS, NextJS, Python, Laravel Livewire, & JavaScript.</b></p>
-<p>📘 I share my experiences and insights as a Junior Software Engineer on <a href="https://blainmuema.hashnode.dev/">Hashnode</a>.</p>
+![Profile views](https://komarev.com/ghpvc/?username=octocatblain&label=Profile%20views&color=brightgreen&style=flat)
 
-<hr>
+> **Fullstack Software Engineer based in Nairobi, Kenya**
 
-<!--github stats-->
-<details>
-    <summary>📈 My Github Stats</summary>
-      <br>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github-readme-stats.vercel.app">
-                    <img src="https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=chartreuse-dark"/>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/anuraghazra/convoychat">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&langs_count=10&theme=chartreuse-dark&show_icons=truel)](https://github.com/anuraghazra/github-readme-stats"/>
-                </a>
-            </td>
-        </tr>
-    </table>
+## 💫 About Me
+
+🌱 Currently developing with **Java SpringBoot & NextJS - TypeScript**  
+💬 Ask me about **ReactJS, NextJS, Python, Laravel Livewire, & JavaScript**  
+📘 I share my experiences and insights as a Junior Software Engineer on [Hashnode](https://blainmuema.hashnode.dev/)  
+⚡ Always learning and exploring new technologies  
+
+---
+
+## 🛠️ My Tech Stack
+
+<details open>
+<summary>View Tech Stack</summary>
+
+### Frontend
+| React | Next.js | TypeScript | JavaScript | HTML5 | CSS3 | Tailwind | Sass | Bootstrap |
+|:-----:|:-------:|:----------:|:----------:|:-----:|:----:|:--------:|:----:|:---------:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+
+### Backend
+| Node.js | Python | Flask | Django | PHP | Laravel | Java | Spring Boot |
+|:-------:|:------:|:-----:|:------:|:---:|:-------:|:----:|:----------:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+
+### Database & Tools
+| MySQL | PostgreSQL | MongoDB | Git | GitHub | Docker | VS Code | Bash |
+|:-----:|:----------:|:-------:|:---:|:------:|:------:|:-------:|:----:|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+
 </details>
 
-<!--Tools-->
-<details>
-<summary>📡 My Tech Stack & Tools</summary>
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
-  <tbody style="vertical-align: top">
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
-          </tr>
-          <tr>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
-          </tr>
-          <tr>
-            <td><img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></td>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></td>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-          </tr>
-          <tr>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></td>
-          </tr>
-          <tr>
-            <td><img src="https://github.com/octocatblain/octocatblain/assets/62080362/8e81fd7c-e56d-4073-b96c-393d22d17a13" width="37" height="40" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></td>
-          </tr>
-          <tr>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /></td>
-          </tr>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td><img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
-            <td><img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## 📊 GitHub Stats
+
+<details open>
+<summary>View GitHub Stats</summary>
+
+| GitHub Stats | GitHub Streak |
+| :----------: | :-----------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocatblain&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocatblain&theme=chartreuse-dark&hide_border=true) |
+
+| Top Languages | GitHub Trophies |
+| :-----------: | :-------------: |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocatblain&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=octocatblain&theme=matrix&column=4&margin-w=15&margin-h=15) |
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=0d1117&color=7ffe00&line=7ffe00&point=7ffe00&area=true&hide_border=true)
+
 </details>
 
-<!--Summary-->
-<details>
-    <summary>🔥 Github Streak & Contribution Graph</summary>
-    <table>
-        <tr align="center">
-            <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=octocatblain&theme=github-dark" alt="GitHub Streak" /></a></td>
-        </tr>
-        <tr align="center">
-            <td>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=octocatblain&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-            </td>
-        </tr>
-    </table>
-</details>
+---
+
+## 🎵 Currently Listening To
 
 <details>
-    <summary>🔎 How to reach me on Socials</summary>
-    <table align="center">
-        <tr>
-            <td rowspan="6">
-                  
+<summary>View Spotify Activity</summary>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uzr2jwp6guujlxxeyiyi2wgxbq&redirect=true)
-            </td>
-            <td align="right"><a href="https://www.linkedin.com/in/blain-muema/" target="_blank">LinkedIn <img width="15" height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a></td>
-        </tr>
-        <tr>
-            <td align="right"><a href="https://.com" target="_blank">Discord <img src="icons/discord.png" width="15" height="15"></a></td>
-        </tr>
-        <tr>
-            <td align="right"><a href="https://twitter.com/birdblain/" target="_blank">Twitter <img width="15" height="15"                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a></td>
-        </tr>
-        <tr>
-            <td align="right"><a href="https://wa.me/+254113604268/" target="_blank">Whatsapp <img width="15" height="15" src="icons/whatsapp.png"></a></td>
-        </tr>
-        <tr>
-            <td align="right"><a href="mailto:blainmuema@gmail.com" target="_blank">Gmail <img width="15" height="15" src="icons/gmail.png"></a></td>
-        </tr>
-        <tr>
-            <td align="right"><a href="https://blainmuema.hashnode.dev/" target="_blank">Hashnode <svg xmlns="http://www.w3.org/2000/svg" height="15" width="15" viewBox="0 0 512 512"><path d="M35.2 171.1C-11.7 217.1-11.7 294 35.2 340.9L171.1 476.8C217.1 523.7 294 523.7 340.9 476.8L476.8 340.9C523.7 294 523.7 217.1 476.8 171.1L340.9 35.2C294-11.7 217.1-11.7 171.1 35.2L35.2 171.1zM315.5 315.5C282.6 348.3 229.4 348.3 196.6 315.5C163.7 282.6 163.7 229.4 196.6 196.6C229.4 163.7 282.6 163.7 315.5 196.6C348.3 229.4 348.3 282.6 315.5 315.5z"/></svg></a></td>
-        </tr>
-    </table>
+
 </details>
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/octocatblain?style=for-the-badge&logo=github&color=7ffe00&logoColor=black)](https://github.com/octocatblain?tab=followers)
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-View%20All-7ffe00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/octocatblain?tab=repositories)
